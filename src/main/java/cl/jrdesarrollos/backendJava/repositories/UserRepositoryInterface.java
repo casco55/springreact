@@ -1,4 +1,4 @@
-package cl.jrdesarrollos.backendJava;
+package cl.jrdesarrollos.backendJava.repositories;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
